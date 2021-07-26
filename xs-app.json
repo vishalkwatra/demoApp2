@@ -1,5 +1,5 @@
             {
-                "welcomeFile": "/index.html",
+                "welcomeFile": "eydemoApp2/index.html",
                 "authenticationMethod": "none",
                 "routes": [
                     {
