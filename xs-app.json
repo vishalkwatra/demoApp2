@@ -5,7 +5,7 @@
                     {
                         "authenticationType": "none",
                         "csrfProtection": false,
-                        "source": "^/northwind/(.*)$",
+                        "source": "^/V2/(.*)$",
                         "destination": "NWD",
                         "target": "$1"
                     },
