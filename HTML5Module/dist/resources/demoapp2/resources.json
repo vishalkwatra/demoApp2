@@ -1,0 +1,105 @@
+{
+    "resources": [
+        {
+            "name": "../ey/demoApp2/webapp (1).zip"
+        },
+        {
+            "name": "../ey/demoApp2/model/formatter.js"
+        },
+        {
+            "name": "../ey/demoApp2/model/models.js"
+        },
+        {
+            "name": "../ey/demoApp2/manifest.json"
+        },
+        {
+            "name": "../ey/demoApp2/controller/Worklist.controller.js"
+        },
+        {
+            "name": "../ey/demoApp2/controller/Object.controller.js"
+        },
+        {
+            "name": "../ey/demoApp2/controller/NotFound.controller.js"
+        },
+        {
+            "name": "../ey/demoApp2/controller/ErrorHandler.js"
+        },
+        {
+            "name": "../ey/demoApp2/controller/BaseController.js"
+        },
+        {
+            "name": "../ey/demoApp2/controller/App.controller.js"
+        },
+        {
+            "name": "../ey/demoApp2/Component.js"
+        },
+        {
+            "name": "../ey/demoApp2/manifest-bundle.zip"
+        },
+        {
+            "name": "../ey/demoApp2/Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "../ey/demoApp2/Component-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "../ey/demoApp2/model/formatter-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "../ey/demoApp2/controller/Worklist-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "../ey/demoApp2/controller/Object-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "../ey/demoApp2/controller/NotFound-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "../ey/demoApp2/controller/ErrorHandler-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "../ey/demoApp2/controller/BaseController-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "../ey/demoApp2/controller/App-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "../ey/demoApp2/model/models-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "../sap-ui-version.json"
+        },
+        {
+            "name": "../ey/demoApp2/view/Worklist.view.xml"
+        },
+        {
+            "name": "../ey/demoApp2/view/ObjectNotFound.view.xml"
+        },
+        {
+            "name": "../ey/demoApp2/view/Object.view.xml"
+        },
+        {
+            "name": "../ey/demoApp2/view/NotFound.view.xml"
+        },
+        {
+            "name": "../ey/demoApp2/view/App.view.xml"
+        },
+        {
+            "name": "../ey/demoApp2/i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "../ey/demoApp2/index.html"
+        }
+    ]
+}

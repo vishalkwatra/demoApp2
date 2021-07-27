@@ -1,0 +1,17 @@
+{
+  "name": "demoapp2-approuter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/@sap/approuter/approuter.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sap/approuter": "^10.5.1"
+  },
+  "devDependencies": {
+    "@sap/html5-repo-mock": "^2.0.3"
+  }
+}

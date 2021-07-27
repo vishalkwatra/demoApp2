@@ -1,0 +1,24 @@
+{
+  "name": "demoapp2",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-local": "node node_modules/@sap/html5-repo-mock/index.js",
+    "start-local-env": "node index.js",
+    "build": "npm run clean && ui5 build --include-task=generateManifestBundle generateCachebusterInfo && npm run zip",
+	"zip": "cd dist && npx bestzip ../HTML5Module-content.zip *",
+	"clean": "npx rimraf HTML5Module-content.zip dist"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sap/approuter": "^10.5.0",
+    "@sap/html5-repo-mock": "^2.0.3",
+    "@sap/ui5-builder-webide-extension": "^1.1.6",
+    "@ui5/cli": "^2.11.3",
+    "dotenv": "^10.0.0",
+    "ui5-middleware-simpleproxy": "^0.7.2"
+  }
+}
